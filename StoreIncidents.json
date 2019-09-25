@@ -251,6 +251,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "pawn",
+		"price": 800,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "animal",
 		"price": 1500,
 		"karmatype": "Good"
@@ -277,99 +282,9 @@
 	},
 	{
 		"abr": "prisoner",
-		"price": 600,
+		"price": 500,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "superheatwave",
-		"price": 1800,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "bouldermasshit",
-		"price": 200,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "leanatmosphere",
-		"price": 3000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "icestorm",
-		"price": 3000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "heavyair",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "mechanoidportal",
-		"price": 4000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "beetlerush",
-		"price": 1250,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "reversetraderequest",
-		"price": 700,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "woundedcombatants",
-		"price": 1500,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "pirateextortion",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "roadworks",
-		"price": 1000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "mysticalshaman",
-		"price": 1000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "annualexpo",
-		"price": 1000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "peacetalks",
-		"price": 1000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "piratecamp",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "bumpercrops",
-		"price": 1000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "hunterslodge",
-		"price": 1000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "baseattack",
-		"price": 3000,
-		"karmatype": "Neutral"
 	}
 	],
-	"total": 74
+	"total": 57
 }
