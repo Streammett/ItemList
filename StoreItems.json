@@ -3299,7 +3299,139 @@
 		"price": 5,
 		"category": "Animal products",
 		"defname": "GR_DinoMilk"
+	},
+	{
+		"abr": "advancedmechanoidchip",
+		"price": 92,
+		"category": "Manufactured",
+		"defname": "WTH_MechanoidChip"
+	},
+	{
+		"abr": "armormodule",
+		"price": 1483,
+		"category": "Manufactured",
+		"defname": "WTH_ArmorModule"
+	},
+	{
+		"abr": "batteryexpansionmodule",
+		"price": 1183,
+		"category": "Manufactured",
+		"defname": "WTH_BatteryExpansionModule"
+	},
+	{
+		"abr": "beltmodule",
+		"price": 1175,
+		"category": "Manufactured",
+		"defname": "WTH_BeltModule"
+	},
+	{
+		"abr": "cargomodule",
+		"price": 950,
+		"category": "Manufactured",
+		"defname": "WTH_CargoModule"
+	},
+	{
+		"abr": "cleaningmodule",
+		"price": 1042,
+		"category": "Manufactured",
+		"defname": "WTH_CleaningModule"
+	},
+	{
+		"abr": "dinofeatherwool",
+		"price": 4,
+		"category": "Textiles",
+		"defname": "GR_DinoFeatherWool"
+	},
+	{
+		"abr": "dinoinsectjelly",
+		"price": 13,
+		"category": "Animal products",
+		"defname": "GR_DinoInsectJelly"
+	},
+	{
+		"abr": "dinoscalywool",
+		"price": 4,
+		"category": "Textiles",
+		"defname": "GR_ScalyWool"
+	},
+	{
+		"abr": "dinobearincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_DinoBearIncubator"
+	},
+	{
+		"abr": "dinoboomalopeincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_DinoBoomalopeIncubator"
+	},
+	{
+		"abr": "dinochickenincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_DinoChickenIncubator"
+	},
+	{
+		"abr": "dinoinsectoidincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_DinoInsectoidIncubator"
+	},
+	{
+		"abr": "dinomuffaloincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_DinoMuffaloIncubator"
+	},
+	{
+		"abr": "dinoreptileincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_DinoReptilianIncubator"
+	},
+	{
+		"abr": "dinosaurfuzz",
+		"price": 5,
+		"category": "Leathers",
+		"defname": "Leather_DinosaurFuzz"
+	},
+	{
+		"abr": "dinosaurgeneticmaterial",
+		"price": 75,
+		"category": "Genetic materials",
+		"defname": "GR_DinoGenetic"
+	},
+	{
+		"abr": "dinosaurhide",
+		"price": 5,
+		"category": "Leathers",
+		"defname": "Leather_DinosaurHide"
+	},
+	{
+		"abr": "dinosaurskin",
+		"price": 3,
+		"category": "Leathers",
+		"defname": "Leather_DinosaurSkin"
+	},
+	{
+		"abr": "dinothrumboincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_DinoThrumboIncubator"
+	},
+	{
+		"abr": "dinowolfincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_DinoWolfIncubator"
+	},
+	{
+		"abr": "diplobeetleegg(fert.)",
+		"price": 33,
+		"category": "Eggs (fert.)",
+		"defname": "GR_DiplobeetleEggFertilized"
 	}
 	],
-	"total": 873
+	"total": 894
 }
