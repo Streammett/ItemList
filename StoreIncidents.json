@@ -252,7 +252,7 @@
 	},
 	{
 		"abr": "pawn",
-		"price": 800,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
@@ -279,12 +279,7 @@
 		"abr": "genderswap",
 		"price": 600,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "prisoner",
-		"price": 500,
-		"karmatype": "Good"
 	}
 	],
-	"total": 57
+	"total": 56
 }
