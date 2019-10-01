@@ -31,7 +31,7 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "clearweather",
+		"abr": "rainythunderstorm",
 		"price": 250,
 		"karmatype": "Neutral"
 	},
@@ -82,12 +82,12 @@
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 4200,
+		"price": 6500,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "volcanicwinter",
-		"price": 3600,
+		"price": 3200,
 		"karmatype": "Doom"
 	},
 	{
@@ -142,7 +142,7 @@
 	},
 	{
 		"abr": "madanimal",
-		"price": 600,
+		"price": 200,
 		"karmatype": "Bad"
 	},
 	{
@@ -162,12 +162,12 @@
 	},
 	{
 		"abr": "herdmigration",
-		"price": 400,
+		"price": 200,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "farmanimals",
-		"price": 200,
+		"price": 400,
 		"karmatype": "Good"
 	},
 	{
@@ -187,7 +187,7 @@
 	},
 	{
 		"abr": "travelergroup",
-		"price": 350,
+		"price": 80,
 		"karmatype": "Good"
 	},
 	{
@@ -237,17 +237,22 @@
 	},
 	{
 		"abr": "sapperraid",
-		"price": 2500,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "siegeraid",
-		"price": 3000,
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "mechanoidraid",
-		"price": 4500,
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "infestation",
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
@@ -262,7 +267,7 @@
 	},
 	{
 		"abr": "randomdisease",
-		"price": 1200,
+		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
@@ -272,7 +277,7 @@
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 2400,
+		"price": 1200,
 		"karmatype": "Good"
 	},
 	{
@@ -281,8 +286,8 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "gambleskill",
-		"price": 800,
+		"abr": "levelskill",
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
@@ -292,7 +297,7 @@
 	},
 	{
 		"abr": "removetrait",
-		"price": 1000,
+		"price": 5500,
 		"karmatype": "Good"
 	},
 	{
@@ -337,7 +342,7 @@
 	},
 	{
 		"abr": "bouldermasshit",
-		"price": 200,
+		"price": 500,
 		"karmatype": "Bad"
 	},
 	{
@@ -347,22 +352,22 @@
 	},
 	{
 		"abr": "icestorm",
-		"price": 3000,
+		"price": 1800,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "heavyair",
-		"price": 1000,
+		"price": 2600,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "mechanoidportal",
-		"price": 4000,
+		"price": 3200,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "beetlerush",
-		"price": 1250,
+		"price": 4000,
 		"karmatype": "Bad"
 	},
 	{
@@ -384,6 +389,11 @@
 		"abr": "roadworks",
 		"price": 1000,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "diplomaticmarriage",
+		"price": 1000,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "mysticalshaman",
@@ -417,18 +427,8 @@
 	},
 	{
 		"abr": "baseattack",
-		"price": 3000,
+		"price": 1000,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "zombiepack",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "zombiehorde",
-		"price": 1500,
-		"karmatype": "Bad"
 	}
 	],
 	"total": 86
