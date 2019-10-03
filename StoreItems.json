@@ -842,7 +842,7 @@
 	},
 	{
 		"abr": "granitechunk",
-		"price": 4,
+		"price": -10,
 		"category": "Stone chunks",
 		"defname": "ChunkGranite"
 	},
@@ -1178,7 +1178,7 @@
 	},
 	{
 		"abr": "limestonechunk",
-		"price": 3,
+		"price": -10,
 		"category": "Stone chunks",
 		"defname": "ChunkLimestone"
 	},
@@ -1256,7 +1256,7 @@
 	},
 	{
 		"abr": "marblechunk",
-		"price": 2,
+		"price": -10,
 		"category": "Stone chunks",
 		"defname": "ChunkMarble"
 	},
@@ -1724,7 +1724,7 @@
 	},
 	{
 		"abr": "sandstonechunk",
-		"price": 2,
+		"price": -10,
 		"category": "Stone chunks",
 		"defname": "ChunkSandstone"
 	},
@@ -1802,7 +1802,7 @@
 	},
 	{
 		"abr": "slatechunk",
-		"price": 2,
+		"price": -10,
 		"category": "Stone chunks",
 		"defname": "ChunkSlate"
 	},
@@ -7433,7 +7433,7 @@
 		"price": 10,
 		"category": "Misc",
 		"defname": "WaterproofConduit"
-	}
+	},
 	],
 	"total": 2113
 }
