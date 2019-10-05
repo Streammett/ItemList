@@ -327,8 +327,8 @@
 	},
 	{
 		"abr": "supernova",
-		"price": 1500,
-		"karmatype": "Good"
+		"price": 3500,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "superheatwave",
@@ -343,17 +343,17 @@
 	{
 		"abr": "leanatmosphere",
 		"price": 3000,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "icestorm",
-		"price": 1800,
-		"karmatype": "Bad"
+		"price": 2250,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "heavyair",
 		"price": 2600,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "mechanoidportal",
