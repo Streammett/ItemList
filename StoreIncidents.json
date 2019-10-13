@@ -282,8 +282,8 @@
 	},
 	{
 		"abr": "pawn",
-		"price": 1500,
-		"karmatype": "Good"
+		"price": 100,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "levelskill",
