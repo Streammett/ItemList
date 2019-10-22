@@ -2217,7 +2217,7 @@
 	{
 		"abr": "multi-analyzer",
 		"price": 1700,
-		"category": "",
+		"category": "Misc",
 		"defname": "MultiAnalyzer"
 	},
 	{
@@ -2229,31 +2229,31 @@
 	{
 		"abr": "autocannonturret",
 		"price": 2117,
-		"category": "",
+		"category": "Misc",
 		"defname": "Turret_Autocannon"
 	},
 	{
 		"abr": "autodoor",
 		"price": 323,
-		"category": "",
+		"category": "Misc",
 		"defname": "Autodoor"
 	},
 	{
 		"abr": "campfire",
 		"price": 41,
-		"category": "",
+		"category": "Misc",
 		"defname": "Campfire"
 	},
 	{
 		"abr": "cryptosleepcasket",
 		"price": 1183,
-		"category": "",
+		"category": "Misc",
 		"defname": "CryptosleepCasket"
 	},
 	{
 		"abr": "door",
 		"price": 88,
-		"category": "",
+		"category": "Misc",
 		"defname": "Door"
 	},
 	{
@@ -2265,13 +2265,13 @@
 	{
 		"abr": "geothermalgenerator",
 		"price": 1575,
-		"category": "",
+		"category": "Misc",
 		"defname": "GeothermalGenerator"
 	},
 	{
 		"abr": "grave",
 		"price": 5,
-		"category": "",
+		"category": "Misc",
 		"defname": "Grave"
 	},
 	{
@@ -2283,67 +2283,67 @@
 	{
 		"abr": "nutrientpastedispenser",
 		"price": 458,
-		"category": "",
+		"category": "Misc",
 		"defname": "NutrientPasteDispenser"
 	},
 	{
 		"abr": "powerconduit",
 		"price": 3,
-		"category": "",
+		"category": "Misc",
 		"defname": "PowerConduit"
 	},
 	{
 		"abr": "sandbags",
 		"price": 17,
-		"category": "",
+		"category": "Misc",
 		"defname": "Sandbags"
 	},
 	{
 		"abr": "sensorcluster",
 		"price": 3008,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_SensorCluster"
 	},
 	{
 		"abr": "shipcomputercore",
 		"price": 9742,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_ComputerCore"
 	},
 	{
 		"abr": "shipcryptosleepcasket",
 		"price": 1725,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_CryptosleepCasket"
 	},
 	{
 		"abr": "shipengine",
 		"price": 5925,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_Engine"
 	},
 	{
 		"abr": "shipreactor",
 		"price": 9067,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_Reactor"
 	},
 	{
 		"abr": "shipstructuralbeam",
 		"price": 1775,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_Beam"
 	},
 	{
 		"abr": "transportpod",
 		"price": 253,
-		"category": "",
+		"category": "Misc",
 		"defname": "TransportPod"
 	},
 	{
 		"abr": "uraniumslugturret",
 		"price": 2408,
-		"category": "",
+		"category": "Misc",
 		"defname": "Turret_Sniper"
 	},
 	{
@@ -2355,19 +2355,19 @@
 	{
 		"abr": "wall",
 		"price": 17,
-		"category": "",
+		"category": "Misc",
 		"defname": "Wall"
 	},
 	{
 		"abr": "watermillgenerator",
 		"price": 1000,
-		"category": "",
+		"category": "Misc",
 		"defname": "WatermillGenerator"
 	},
 	{
 		"abr": "waterproofconduit",
 		"price": 10,
-		"category": "",
+		"category": "Misc",
 		"defname": "WaterproofConduit"
 	},
 	{
@@ -2714,7 +2714,7 @@
 	},
 	{
 		"abr": "archotechcentipede",
-		"price": 6666666,
+		"price": 66666,
 		"category": "Animal",
 		"defname": "GR_ArchotechCentipede"
 	},
@@ -6697,12 +6697,6 @@
 		"defname": "ArcheryTarget"
 	},
 	{
-		"abr": "autoclave",
-		"price": 1108,
-		"category": "Oil",
-		"defname": "Autoclave"
-	},
-	{
 		"abr": "bionicfinger",
 		"price": 300,
 		"category": "Artificial",
@@ -6749,18 +6743,6 @@
 		"price": 1558,
 		"category": "Oil",
 		"defname": "FuelPowerplant"
-	},
-	{
-		"abr": "chemfuelpump",
-		"price": 49,
-		"category": "Oil",
-		"defname": "ChemfuelHopper"
-	},
-	{
-		"abr": "chemfuelsiphon",
-		"price": 49,
-		"category": "Oil",
-		"defname": "ChemfuelSiphon"
 	},
 	{
 		"abr": "composite",
@@ -6985,12 +6967,6 @@
 		"defname": "MovingRailGreenPuller"
 	},
 	{
-		"abr": "hyperweaverefiner",
-		"price": 2075,
-		"category": "Oil",
-		"defname": "HyperweaveRefiner"
-	},
-	{
 		"abr": "labcoat",
 		"price": 240,
 		"category": "Apparel",
@@ -7165,22 +7141,10 @@
 		"defname": "Napalm"
 	},
 	{
-		"abr": "napalmrefiner",
-		"price": 758,
-		"category": "Oil",
-		"defname": "NapalmRefiner"
-	},
-	{
 		"abr": "napalmshell",
 		"price": 92,
 		"category": "Mortar shells",
 		"defname": "Shell_Napalm"
-	},
-	{
-		"abr": "neutroaminerefiner",
-		"price": 1583,
-		"category": "Oil",
-		"defname": "NeutroamineRefiner"
 	},
 	{
 		"abr": "ornateplantpot",
@@ -7235,12 +7199,6 @@
 		"price": 307,
 		"category": "Furniture",
 		"defname": "RimFridge_QuadRefrigerator"
-	},
-	{
-		"abr": "refineryunloadingbay",
-		"price": 49,
-		"category": "Oil",
-		"defname": "RefineryLoadingBay"
 	},
 	{
 		"abr": "researchterminal",
@@ -7345,18 +7303,6 @@
 		"defname": "Synthamide"
 	},
 	{
-		"abr": "synthamiderefiner",
-		"price": 1167,
-		"category": "Oil",
-		"defname": "SynthamideRefiner"
-	},
-	{
-		"abr": "synthreadrefiner",
-		"price": 808,
-		"category": "Oil",
-		"defname": "SynthreadRefiner"
-	},
-	{
 		"abr": "synthylene",
 		"price": 3,
 		"category": "Synthylene",
@@ -7397,12 +7343,6 @@
 		"price": 3,
 		"category": "Synthylene",
 		"defname": "SynthyleneRed"
-	},
-	{
-		"abr": "synthylenerefiner",
-		"price": 758,
-		"category": "Oil",
-		"defname": "SynthyleneRefiner"
 	},
 	{
 		"abr": "synthylenesand",
@@ -8275,6 +8215,1038 @@
 		"defname": "FSFArchotechImplantSubdermalArmor"
 	},
 	{
+		"abr": "air-conindoorunit",
+		"price": 82,
+		"category": "Hygiene",
+		"defname": "AirconIndoorUnit"
+	},
+	{
+		"abr": "air-conoutdoorunit",
+		"price": 458,
+		"category": "Hygiene",
+		"defname": "AirConOutdoorUnit"
+	},
+	{
+		"abr": "basin",
+		"price": 52,
+		"category": "Hygiene",
+		"defname": "BasinStuff"
+	},
+	{
+		"abr": "bathtub",
+		"price": 124,
+		"category": "Hygiene",
+		"defname": "BathtubStuff"
+	},
+	{
+		"abr": "biosolids",
+		"price": 0,
+		"category": "Waste",
+		"defname": "Biosolids"
+	},
+	{
+		"abr": "biosolidscomposter",
+		"price": 146,
+		"category": "Hygiene",
+		"defname": "BiosolidsComposter"
+	},
+	{
+		"abr": "ceilingfan1x1",
+		"price": 184,
+		"category": "Hygiene",
+		"defname": "CeilingFanS"
+	},
+	{
+		"abr": "ceilingfan2x2",
+		"price": 184,
+		"category": "Hygiene",
+		"defname": "CeilingFan"
+	},
+	{
+		"abr": "electricboiler",
+		"price": 425,
+		"category": "Hygiene",
+		"defname": "ElectricBoiler"
+	},
+	{
+		"abr": "electricpump",
+		"price": 316,
+		"category": "Hygiene",
+		"defname": "ElectricPump"
+	},
+	{
+		"abr": "firesprinkler",
+		"price": 104,
+		"category": "Hygiene",
+		"defname": "FireSprinkler"
+	},
+	{
+		"abr": "fountain",
+		"price": 52,
+		"category": "Hygiene",
+		"defname": "Fountain"
+	},
+	{
+		"abr": "gasboiler",
+		"price": 425,
+		"category": "Hygiene",
+		"defname": "GasBoiler"
+	},
+	{
+		"abr": "hottub",
+		"price": 800,
+		"category": "Hygiene",
+		"defname": "HotTub"
+	},
+	{
+		"abr": "hotwatertank",
+		"price": 245,
+		"category": "Hygiene",
+		"defname": "HotWaterTank"
+	},
+	{
+		"abr": "irrigationsprinkler",
+		"price": 102,
+		"category": "Hygiene",
+		"defname": "IrrigationSprinkler"
+	},
+	{
+		"abr": "kitchensink",
+		"price": 167,
+		"category": "Hygiene",
+		"defname": "KitchenSink"
+	},
+	{
+		"abr": "largeradiator",
+		"price": 252,
+		"category": "Hygiene",
+		"defname": "RadiatorLarge"
+	},
+	{
+		"abr": "latrine",
+		"price": 55,
+		"category": "Hygiene",
+		"defname": "PitLatrine"
+	},
+	{
+		"abr": "litterbox",
+		"price": 52,
+		"category": "Hygiene",
+		"defname": "LitterBox"
+	},
+	{
+		"abr": "logboiler",
+		"price": 642,
+		"category": "Hygiene",
+		"defname": "LogBoiler"
+	},
+	{
+		"abr": "plumbingvalve",
+		"price": 50,
+		"category": "Hygiene",
+		"defname": "plumbingValve"
+	},
+	{
+		"abr": "powershower",
+		"price": 170,
+		"category": "Hygiene",
+		"defname": "ShowerAdvStuff"
+	},
+	{
+		"abr": "radiator",
+		"price": 83,
+		"category": "Hygiene",
+		"defname": "Radiator"
+	},
+	{
+		"abr": "radiator",
+		"price": 85,
+		"category": "Hygiene",
+		"defname": "RadiatorStuffed"
+	},
+	{
+		"abr": "shower",
+		"price": 90,
+		"category": "Hygiene",
+		"defname": "ShowerStuff"
+	},
+	{
+		"abr": "simpleshower",
+		"price": 52,
+		"category": "Hygiene",
+		"defname": "ShowerSimple"
+	},
+	{
+		"abr": "smarttoilet",
+		"price": 182,
+		"category": "Hygiene",
+		"defname": "ToiletAdvStuff"
+	},
+	{
+		"abr": "thermostat",
+		"price": 86,
+		"category": "Hygiene",
+		"defname": "Thermostat"
+	},
+	{
+		"abr": "toilet",
+		"price": 72,
+		"category": "Hygiene",
+		"defname": "ToiletStuff"
+	},
+	{
+		"abr": "walk-infreezerunit",
+		"price": 153,
+		"category": "Hygiene",
+		"defname": "FreezerUnit"
+	},
+	{
+		"abr": "washingmachine",
+		"price": 433,
+		"category": "Hygiene",
+		"defname": "WashingMachine"
+	},
+	{
+		"abr": "waterbutt",
+		"price": 89,
+		"category": "Furniture",
+		"defname": "WaterButt"
+	},
+	{
+		"abr": "watertub",
+		"price": 52,
+		"category": "Hygiene",
+		"defname": "WashBucket"
+	},
+	{
+		"abr": "windpump",
+		"price": 322,
+		"category": "Misc",
+		"defname": "WindPump"
+	},
+	{
+		"abr": "air-conpipe",
+		"price": 5,
+		"category": "Misc",
+		"defname": "airPipe"
+	},
+	{
+		"abr": "aquaculturebasin",
+		"price": 800,
+		"category": "Misc",
+		"defname": "AquacultureBasin"
+	},
+	{
+		"abr": "archotechconstructionplatform",
+		"price": 9067,
+		"category": "Misc",
+		"defname": "GR_ArchotechPlatform"
+	},
+	{
+		"abr": "biosolidfertilizer",
+		"price": 1,
+		"category": "Misc",
+		"defname": "BiosolidFertilizer"
+	},
+	{
+		"abr": "broadcaster",
+		"price": 1675,
+		"category": "Misc",
+		"defname": "BroadcastTowerDef"
+	},
+	{
+		"abr": "burnpit",
+		"price": 65,
+		"category": "Misc",
+		"defname": "BurnPit"
+	},
+	{
+		"abr": "centralizedgeneticrepository",
+		"price": 4833,
+		"category": "Misc",
+		"defname": "GR_GeneticRepository"
+	},
+	{
+		"abr": "chemfuelstorage",
+		"price": 458,
+		"category": "Misc",
+		"defname": "FuelStorage"
+	},
+	{
+		"abr": "coredrill",
+		"price": 13150,
+		"category": "Misc",
+		"defname": "CoreDrill"
+	},
+	{
+		"abr": "crudecracker",
+		"price": 1683,
+		"category": "Misc",
+		"defname": "CrudeCracker"
+	},
+	{
+		"abr": "crudeoilstorage",
+		"price": 458,
+		"category": "Misc",
+		"defname": "OilStorage"
+	},
+	{
+		"abr": "cryo-stabilizedgenerator",
+		"price": 792,
+		"category": "Misc",
+		"defname": "GR_CryostabilizedEngine"
+	},
+	{
+		"abr": "deepoilwell",
+		"price": 792,
+		"category": "Misc",
+		"defname": "DeepOilWell"
+	},
+	{
+		"abr": "deepwaterwell",
+		"price": 332,
+		"category": "Misc",
+		"defname": "DeepWaterWellInlet"
+	},
+	{
+		"abr": "fishingpier",
+		"price": 667,
+		"category": "Misc",
+		"defname": "FishingPier"
+	},
+	{
+		"abr": "fossilchemfuelgenerator",
+		"price": 792,
+		"category": "Misc",
+		"defname": "GR_FossilChemfuelGenerator"
+	},
+	{
+		"abr": "geoscape",
+		"price": 2500,
+		"category": "Misc",
+		"defname": "Geoscape"
+	},
+	{
+		"abr": "hempolinegenerator",
+		"price": 650,
+		"category": "Misc",
+		"defname": "HempolineGenerator"
+	},
+	{
+		"abr": "hugewatertower",
+		"price": 717,
+		"category": "Misc",
+		"defname": "WaterTowerL"
+	},
+	{
+		"abr": "iednitromilktrap",
+		"price": 71,
+		"category": "Misc",
+		"defname": "GR_NitroMilkTrap"
+	},
+	{
+		"abr": "in-wallroller",
+		"price": 111,
+		"category": "Misc",
+		"defname": "MovingRailWall"
+	},
+	{
+		"abr": "laboratorycounter",
+		"price": 12,
+		"category": "Misc",
+		"defname": "CounterTopModular"
+	},
+	{
+		"abr": "largechemfuelpowerplant",
+		"price": 3750,
+		"category": "Misc",
+		"defname": "LargeFuelPowerplant"
+	},
+	{
+		"abr": "leftturnroller",
+		"price": 48,
+		"category": "Misc",
+		"defname": "MovingRailLeft"
+	},
+	{
+		"abr": "masterarchotechdatabase",
+		"price": 12275,
+		"category": "Misc",
+		"defname": "GR_ArchotechDatabase"
+	},
+	{
+		"abr": "mechanoidtinkeringtable",
+		"price": 1542,
+		"category": "Misc",
+		"defname": "GR_MechanoidTinkeringTable"
+	},
+	{
+		"abr": "medicinekitworkbench",
+		"price": 284,
+		"category": "Misc",
+		"defname": "MedicineWorkTable"
+	},
+	{
+		"abr": "napalmbomb",
+		"price": 383,
+		"category": "Misc",
+		"defname": "NapalmBomb"
+	},
+	{
+		"abr": "napalmtrail",
+		"price": 9,
+		"category": "Misc",
+		"defname": "Filth_NapalmTrail"
+	},
+	{
+		"abr": "oilpipeline",
+		"price": 5,
+		"category": "Misc",
+		"defname": "OilPipeline"
+	},
+	{
+		"abr": "oilwell",
+		"price": 792,
+		"category": "Misc",
+		"defname": "OilWell"
+	},
+	{
+		"abr": "plantspot",
+		"price": 51,
+		"category": "Misc",
+		"defname": "Anon2PlantSpot"
+	},
+	{
+		"abr": "plumbing",
+		"price": 5,
+		"category": "Misc",
+		"defname": "sewagePipeStuff"
+	},
+	{
+		"abr": "primitivewell",
+		"price": 137,
+		"category": "Misc",
+		"defname": "PrimitiveWell"
+	},
+	{
+		"abr": "pumpingstation",
+		"price": 567,
+		"category": "Misc",
+		"defname": "PumpingStation"
+	},
+	{
+		"abr": "refrigeratedcoils",
+		"price": 1775,
+		"category": "Misc",
+		"defname": "GR_RefrigeratedCoils"
+	},
+	{
+		"abr": "rightturnroller",
+		"price": 48,
+		"category": "Misc",
+		"defname": "MovingRailRight"
+	},
+	{
+		"abr": "septictank",
+		"price": 658,
+		"category": "Misc",
+		"defname": "SewageSepticTank"
+	},
+	{
+		"abr": "sewageoutlet",
+		"price": 176,
+		"category": "Misc",
+		"defname": "SewageOutlet"
+	},
+	{
+		"abr": "sewagetreatment",
+		"price": 1725,
+		"category": "Misc",
+		"defname": "SewageTreatment"
+	},
+	{
+		"abr": "solarheater",
+		"price": 244,
+		"category": "Misc",
+		"defname": "SolarHeater"
+	},
+	{
+		"abr": "sparkgrid",
+		"price": 79,
+		"category": "Misc",
+		"defname": "SparkGrid"
+	},
+	{
+		"abr": "splitterroller",
+		"price": 112,
+		"category": "Misc",
+		"defname": "MovingRailSplitter"
+	},
+	{
+		"abr": "stalldoor",
+		"price": 18,
+		"category": "Misc",
+		"defname": "ToiletStallDoor"
+	},
+	{
+		"abr": "straightroller",
+		"price": 48,
+		"category": "Misc",
+		"defname": "MovingRailStraight"
+	},
+	{
+		"abr": "sunlight",
+		"price": 16,
+		"category": "Misc",
+		"defname": "TWBSunLight"
+	},
+	{
+		"abr": "turbochargedcryo-stabilizedengine",
+		"price": 7342,
+		"category": "Misc",
+		"defname": "GR_TurboChargedCryostabilizedEngine"
+	},
+	{
+		"abr": "undergroundpowerconduit",
+		"price": 7,
+		"category": "",
+		"defname": "PowerConduitSecret_DZ"
+	},
+	{
+		"abr": "undergroundrollerinput",
+		"price": 319,
+		"category": "Misc",
+		"defname": "MovingRailUndergroundInput"
+	},
+	{
+		"abr": "undergroundrolleroutput",
+		"price": 319,
+		"category": "Misc",
+		"defname": "MovingRailUndergroundOutput"
+	},
+	{
+		"abr": "watertower",
+		"price": 258,
+		"category": "Misc",
+		"defname": "WaterTowerS"
+	},
+	{
+		"abr": "watertreatment",
+		"price": 1075,
+		"category": "Misc",
+		"defname": "WaterTreatment"
+	},
+	{
+		"abr": "waterwell",
+		"price": 248,
+		"category": "Misc",
+		"defname": "WaterWellInlet"
+	},
+	{
+		"abr": "windpump",
+		"price": 358,
+		"category": "Misc",
+		"defname": "WindPumpStuffed"
+	},
+	{
+		"abr": "autoclave",
+		"price": 1108,
+		"category": "Oil",
+		"defname": "Autoclave"
+	},
+	{
+		"abr": "chemfuelpump",
+		"price": 49,
+		"category": "Oil",
+		"defname": "ChemfuelHopper"
+	},
+	{
+		"abr": "chemfuelsiphon",
+		"price": 49,
+		"category": "Oil",
+		"defname": "ChemfuelSiphon"
+	},
+	{
+		"abr": "hyperweaverefiner",
+		"price": 2075,
+		"category": "Oil",
+		"defname": "HyperweaveRefiner"
+	},
+	{
+		"abr": "napalmrefiner",
+		"price": 758,
+		"category": "Oil",
+		"defname": "NapalmRefiner"
+	},
+	{
+		"abr": "neutroaminerefiner",
+		"price": 1583,
+		"category": "Oil",
+		"defname": "NeutroamineRefiner"
+	},
+	{
+		"abr": "refineryunloadingbay",
+		"price": 49,
+		"category": "Oil",
+		"defname": "RefineryLoadingBay"
+	},
+	{
+		"abr": "synthamiderefiner",
+		"price": 1167,
+		"category": "Oil",
+		"defname": "SynthamideRefiner"
+	},
+	{
+		"abr": "synthreadrefiner",
+		"price": 808,
+		"category": "Oil",
+		"defname": "SynthreadRefiner"
+	},
+	{
+		"abr": "synthylenerefiner",
+		"price": 758,
+		"category": "Oil",
+		"defname": "SynthyleneRefiner"
+	},
+	{
+		"abr": "rocketfuel",
+		"price": 4,
+		"category": "Manufactured",
+		"defname": "ECP_RocketFuel"
+	},
+	{
+		"abr": "cleaningstation",
+		"price": 708,
+		"category": "Misc",
+		"defname": "CleaningStation"
+	},
+	{
+		"abr": "advancedpodlauncher",
+		"price": 1667,
+		"category": "Misc",
+		"defname": "ECP_LauncherAdv"
+	},
+	{
+		"abr": "hugetransportpod",
+		"price": 1300,
+		"category": "Misc",
+		"defname": "ECP_PodHuge"
+	},
+	{
+		"abr": "improvedpodlauncher",
+		"price": 567,
+		"category": "Misc",
+		"defname": "ECP_LauncherImp"
+	},
+	{
+		"abr": "largetransportpod",
+		"price": 500,
+		"category": "Misc",
+		"defname": "ECP_PodLarge"
+	},
+	{
+		"abr": "rocketturbinegenerator",
+		"price": 2833,
+		"category": "Misc",
+		"defname": "ECP_RocketTurbine"
+	},
+	{
+		"abr": "cleanerbasestation",
+		"price": 2667,
+		"category": "Robots",
+		"defname": "CleaningRobot_RechargeStation"
+	},
+	{
+		"abr": "cleaningbot",
+		"price": 2167,
+		"category": "Animal",
+		"defname": "CleaningRobot"
+	},
+	{
+		"abr": "cleaningbot(disabled)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "CleaningRobot_disabled"
+	},
+	{
+		"abr": "absorbentcarbon",
+		"price": 25,
+		"category": "DarkNET Drugs",
+		"defname": "AbsorbentCarbon"
+	},
+	{
+		"abr": "amita",
+		"price": 42,
+		"category": "DarkNET Drugs",
+		"defname": "Amita"
+	},
+	{
+		"abr": "andomorphine",
+		"price": 750,
+		"category": "Drugs",
+		"defname": "Andomorphine"
+	},
+	{
+		"abr": "ar-31",
+		"price": 2500,
+		"category": "Ranged weapons",
+		"defname": "Gun_AR"
+	},
+	{
+		"abr": "argentrocketlauncher",
+		"price": 10500,
+		"category": "Ranged weapons",
+		"defname": "Gun_ArgentRocketLaucher"
+	},
+	{
+		"abr": "asclepius'sbelt",
+		"price": 2000,
+		"category": "Apparel",
+		"defname": "Apparel_HealShield"
+	},
+	{
+		"abr": "asheswater",
+		"price": 833,
+		"category": "DarkNET Drugs",
+		"defname": "AshesWater"
+	},
+	{
+		"abr": "battlerammeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_BattleRam"
+	},
+	{
+		"abr": "bombardiermeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_Bombardier"
+	},
+	{
+		"abr": "cordianian",
+		"price": 183,
+		"category": "DarkNET Drugs",
+		"defname": "Cordianian"
+	},
+	{
+		"abr": "dextromitaine",
+		"price": 500,
+		"category": "DarkNET Drugs",
+		"defname": "Dextromitaine"
+	},
+	{
+		"abr": "drug'boostyourbrain'",
+		"price": 333,
+		"category": "DarkNET Drugs",
+		"defname": "MaxBrain"
+	},
+	{
+		"abr": "emp-41",
+		"price": 4000,
+		"category": "Ranged weapons",
+		"defname": "Gun_EMP"
+	},
+	{
+		"abr": "emp-47",
+		"price": 4417,
+		"category": "Ranged weapons",
+		"defname": "Gun_EMPS"
+	},
+	{
+		"abr": "emp-59desertfox",
+		"price": 3917,
+		"category": "Ranged weapons",
+		"defname": "Gun_EMP_Fox"
+	},
+	{
+		"abr": "energyweapon'deathray'",
+		"price": 12500,
+		"category": "Ranged weapons",
+		"defname": "Gun_DeathRay"
+	},
+	{
+		"abr": "entotizin",
+		"price": 150,
+		"category": "DarkNET Drugs",
+		"defname": "Entotizin"
+	},
+	{
+		"abr": "extratisinum",
+		"price": 350,
+		"category": "DarkNET Drugs",
+		"defname": "Extratisinum"
+	},
+	{
+		"abr": "felheavy",
+		"price": 1583,
+		"category": "Ranged weapons",
+		"defname": "Gun_FEL_Heavy"
+	},
+	{
+		"abr": "fellight",
+		"price": 667,
+		"category": "Ranged weapons",
+		"defname": "Gun_FEL_Light"
+	},
+	{
+		"abr": "goliathmeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_Goliath"
+	},
+	{
+		"abr": "gravitygrenades",
+		"price": 2333,
+		"category": "Grenades",
+		"defname": "Weapon_GravityGrenades"
+	},
+	{
+		"abr": "highfrequencyblade",
+		"price": 4167,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_HighFrequencyBlade"
+	},
+	{
+		"abr": "ibuprofien",
+		"price": 217,
+		"category": "DarkNET Drugs",
+		"defname": "Ibuprofien"
+	},
+	{
+		"abr": "ingalin",
+		"price": 183,
+		"category": "DarkNET Drugs",
+		"defname": "Ingalin"
+	},
+	{
+		"abr": "joycstasy",
+		"price": 300,
+		"category": "DarkNET Drugs",
+		"defname": "Joycstasy"
+	},
+	{
+		"abr": "kineticartillery",
+		"price": 6167,
+		"category": "Security",
+		"defname": "Turret_KineticArtillery"
+	},
+	{
+		"abr": "laserbow",
+		"price": 3083,
+		"category": "Ranged weapons",
+		"defname": "Gun_LaserBow"
+	},
+	{
+		"abr": "lastdyingbreath",
+		"price": 2167,
+		"category": "DarkNET Drugs",
+		"defname": "LastDyingBreath"
+	},
+	{
+		"abr": "likombinat",
+		"price": 500,
+		"category": "DarkNET Drugs",
+		"defname": "Likombinat"
+	},
+	{
+		"abr": "ltb-4000",
+		"price": 12500,
+		"category": "Ranged weapons",
+		"defname": "Gun_LTB"
+	},
+	{
+		"abr": "magnitor",
+		"price": 200,
+		"category": "DarkNET Drugs",
+		"defname": "Magnitor"
+	},
+	{
+		"abr": "mechanicalaxevenenum",
+		"price": 1667,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Venenum_Axe"
+	},
+	{
+		"abr": "metocarbine",
+		"price": 250,
+		"category": "DarkNET Drugs",
+		"defname": "Metocarbine"
+	},
+	{
+		"abr": "metolidocaine",
+		"price": 167,
+		"category": "DarkNET Drugs",
+		"defname": "Metolidocaine"
+	},
+	{
+		"abr": "microsingularcannon",
+		"price": 18167,
+		"category": "Security",
+		"defname": "Turret_MicrosingularCannon"
+	},
+	{
+		"abr": "mirotofinil",
+		"price": 267,
+		"category": "DarkNET Drugs",
+		"defname": "Mirotofinil"
+	},
+	{
+		"abr": "mutagenicserum",
+		"price": 1500,
+		"category": "DarkNET Drugs",
+		"defname": "MutagenicSerum"
+	},
+	{
+		"abr": "narkoata",
+		"price": 33,
+		"category": "DarkNET Drugs",
+		"defname": "Narkoata"
+	},
+	{
+		"abr": "pemotilan",
+		"price": 283,
+		"category": "DarkNET Drugs",
+		"defname": "Pemotilan"
+	},
+	{
+		"abr": "pg-18",
+		"price": 1500,
+		"category": "Ranged weapons",
+		"defname": "Gun_PG"
+	},
+	{
+		"abr": "pg-21heavy",
+		"price": 2667,
+		"category": "Ranged weapons",
+		"defname": "Gun_PG_Heavy"
+	},
+	{
+		"abr": "pg-26spider",
+		"price": 3167,
+		"category": "Ranged weapons",
+		"defname": "Gun_PG_Spider"
+	},
+	{
+		"abr": "piroten",
+		"price": 200,
+		"category": "DarkNET Drugs",
+		"defname": "Piroten"
+	},
+	{
+		"abr": "rlsteelrain",
+		"price": 20000,
+		"category": "Ranged weapons",
+		"defname": "Gun_RL_SteelRain"
+	},
+	{
+		"abr": "rmp-45",
+		"price": 4667,
+		"category": "Ranged weapons",
+		"defname": "Gun_RMP"
+	},
+	{
+		"abr": "rmp-48nightguard",
+		"price": 5250,
+		"category": "Ranged weapons",
+		"defname": "Gun_RMP_Guard"
+	},
+	{
+		"abr": "rmp-51enigma",
+		"price": 5250,
+		"category": "Ranged weapons",
+		"defname": "Gun_RMP_Enigma"
+	},
+	{
+		"abr": "rmp-56feral",
+		"price": 5750,
+		"category": "Ranged weapons",
+		"defname": "Gun_RMP_Feral"
+	},
+	{
+		"abr": "shortswordwithkineticbuffer",
+		"price": 1000,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Kinetic"
+	},
+	{
+		"abr": "smp-42firestorm",
+		"price": 5083,
+		"category": "Ranged weapons",
+		"defname": "Gun_SMP"
+	},
+	{
+		"abr": "spasmonitis",
+		"price": 267,
+		"category": "DarkNET Drugs",
+		"defname": "Spasmonitis"
+	},
+	{
+		"abr": "sphereofresurrection",
+		"price": 1667,
+		"category": "Items",
+		"defname": "SphereResurrection"
+	},
+	{
+		"abr": "termitnatormeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_Termitnator"
+	},
+	{
+		"abr": "tetrodicline",
+		"price": 383,
+		"category": "DarkNET Drugs",
+		"defname": "Tetrodicline"
+	},
+	{
+		"abr": "thermobaricfusiongun",
+		"price": 15833,
+		"category": "Ranged weapons",
+		"defname": "Gun_ThermoFusion"
+	},
+	{
+		"abr": "vamitex(easy)",
+		"price": 167,
+		"category": "DarkNET Drugs",
+		"defname": "VamitexEasy"
+	},
+	{
+		"abr": "vamitex(hard)",
+		"price": 333,
+		"category": "DarkNET Drugs",
+		"defname": "VamitexHeavy"
+	},
+	{
+		"abr": "venombladevenemum",
+		"price": 667,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Venenum"
+	},
+	{
+		"abr": "wreternalfire",
+		"price": 11667,
+		"category": "Ranged weapons",
+		"defname": "Gun_WR_EternalFire"
+	},
+	{
+		"abr": "wrwisp",
+		"price": 10000,
+		"category": "Ranged weapons",
+		"defname": "Gun_WR_Wisp"
+	},
+	{
+		"abr": "zero",
+		"price": 1167,
+		"category": "DarkNET Drugs",
+		"defname": "Zero"
+	},
+	{
+		"abr": "cavespelopede",
+		"price": 333,
+		"category": "Animal",
+		"defname": "CaveBeetle"
+	},
+	{
 		"abr": "guestbed",
 		"price": 185,
 		"category": "Furniture",
@@ -8309,7 +9281,13 @@
 		"price": 1525,
 		"category": "Furniture",
 		"defname": "RoyalBedGuest"
+	},
+	{
+		"abr": "vent",
+		"price": 97,
+		"category": "Misc",
+		"defname": "ElectricVent"
 	}
 	],
-	"total": 3625
+	"total": 3927
 }
