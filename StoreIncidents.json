@@ -331,46 +331,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "supernova",
-		"price": 900,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "superheatwave",
-		"price": 1800,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "bouldermasshit",
-		"price": 500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "leanatmosphere",
-		"price": 3000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "icestorm",
-		"price": 2250,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "heavyair",
-		"price": 2600,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "mechanoidportal",
-		"price": 4200,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "beetlerush",
-		"price": 4000,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "reversetraderequest",
 		"price": 700,
 		"karmatype": "Good"
@@ -429,6 +389,46 @@
 		"abr": "baseattack",
 		"price": 1000,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "supernova",
+		"price": 900,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "superheatwave",
+		"price": 1800,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "bouldermasshit",
+		"price": 500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "leanatmosphere",
+		"price": 3000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "icestorm",
+		"price": 2250,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "heavyair",
+		"price": 2600,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "mechanoidportal",
+		"price": 1200,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "beetlerush",
+		"price": 4000,
+		"karmatype": "Bad"
 	}
 	],
 	"total": 86
