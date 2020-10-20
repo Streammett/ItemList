@@ -1339,7 +1339,7 @@
       "price": 94
     },
     {
-      "abr": "hase",
+      "abr": "hare",
       "category": "Animal",
       "defname": "Hare",
       "price": 83
@@ -1360,7 +1360,7 @@
       "abr": "heiler-mech-serum",
       "category": "Items",
       "defname": "MechSerumHealer",
-      "price": 2167
+      "price": 600
     },
     {
       "abr": "heizung",
@@ -1375,7 +1375,7 @@
       "price": 153
     },
     {
-      "abr": "hemd",
+      "abr": "button-downshirt",
       "category": "Apparel",
       "defname": "Apparel_CollarShirt",
       "price": 166
@@ -1387,7 +1387,7 @@
       "price": 3333
     },
     {
-      "abr": "heu",
+      "abr": "hay",
       "category": "Foods",
       "defname": "Hay",
       "price": 1
@@ -1405,7 +1405,7 @@
       "price": 86
     },
     {
-      "abr": "höhlenkäfer",
+      "abr": "spelopede",
       "category": "Animal",
       "defname": "Spelopede",
       "price": 333
@@ -1441,7 +1441,7 @@
       "price": 2
     },
     {
-      "abr": "hose",
+      "abr": "pants",
       "category": "Apparel",
       "defname": "Apparel_Pants",
       "price": 143
@@ -1459,19 +1459,19 @@
       "price": 34
     },
     {
-      "abr": "huhn",
+      "abr": "chicken",
       "category": "Animal",
       "defname": "Chicken",
       "price": 83
     },
     {
-      "abr": "hühnerei(befr.)",
+      "abr": "chickenegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggChickenFertilized",
       "price": 12
     },
     {
-      "abr": "hühnerei(unbefr.)",
+      "abr": "chickenegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggChickenUnfertilized",
       "price": 12
@@ -1579,7 +1579,7 @@
       "price": 1
     },
     {
-      "abr": "insektengelee",
+      "abr": "insectjelly",
       "category": "Animal products",
       "defname": "InsectJelly",
       "price": 13
@@ -1609,7 +1609,7 @@
       "price": 48
     },
     {
-      "abr": "jacke",
+      "abr": "jacket",
       "category": "Apparel",
       "defname": "Apparel_Jacket",
       "price": 275
@@ -1645,19 +1645,19 @@
       "price": 2
     },
     {
-      "abr": "kasuar",
+      "abr": "cassowary",
       "category": "Animal",
       "defname": "Cassowary",
       "price": 333
     },
     {
-      "abr": "kasuarei(befr.)",
+      "abr": "cassowaryegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggCassowaryFertilized",
       "price": 32
     },
     {
-      "abr": "katze",
+      "abr": "cat",
       "category": "Animal",
       "defname": "Cat",
       "price": 167
@@ -1669,7 +1669,7 @@
       "price": 3
     },
     {
-      "abr": "ki-chip",
+      "abr": "aichip",
       "category": "Bionic",
       "defname": "AIChip",
       "price": 2133
@@ -1681,7 +1681,7 @@
       "price": 833
     },
     {
-      "abr": "kleineskulptur",
+      "abr": "smallsculpture",
       "category": "Art",
       "defname": "SculptureSmall",
       "price": 275
@@ -1693,13 +1693,13 @@
       "price": 141
     },
     {
-      "abr": "kobra",
+      "abr": "cobra",
       "category": "Animal",
       "defname": "Cobra",
       "price": 250
     },
     {
-      "abr": "kobra-ei(befr.)",
+      "abr": "cobraegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggCobraFertilized",
       "price": 67
@@ -1753,31 +1753,31 @@
       "price": 1183
     },
     {
-      "abr": "küchenroboter(i)basisstation",
+      "abr": "kitchen(i)basestation",
       "category": "Furniture",
       "defname": "RPP_RechargeStation_Kitchen_I",
       "price": 833
     },
     {
-      "abr": "küchenroboter(ii)basisstation",
+      "abr": "kitchen(ii)basestation",
       "category": "Furniture",
       "defname": "RPP_RechargeStation_Kitchen_II",
       "price": 2058
     },
     {
-      "abr": "küchenroboter(iii)basisstation",
+      "abr": "kitchen(iii)basestation",
       "category": "Furniture",
       "defname": "RPP_RechargeStation_Kitchen_III",
       "price": 4533
     },
     {
-      "abr": "küchenroboter(iv)basisstation",
+      "abr": "kitchen(iv)basestation",
       "category": "Furniture",
       "defname": "RPP_RechargeStation_Kitchen_IV",
       "price": 9417
     },
     {
-      "abr": "küchenroboter(v)basisstation",
+      "abr": "kitchen(v)basestation",
       "category": "Furniture",
       "defname": "RPP_RechargeStation_Kitchen_V",
       "price": 19092
@@ -1807,7 +1807,7 @@
       "price": 330
     },
     {
-      "abr": "künstlicheniere",
+      "abr": "synthetickidney",
       "category": "Bionic",
       "defname": "SyntheticKidney",
       "price": 1183
@@ -1843,7 +1843,7 @@
       "price": 3
     },
     {
-      "abr": "labrador-retriever",
+      "abr": "labradorretriever",
       "category": "Animal",
       "defname": "LabradorRetriever",
       "price": 417
@@ -1903,7 +1903,7 @@
       "price": 6350
     },
     {
-      "abr": "laufband(nehmer-farm)",
+      "abr": "growingzonepuller",
       "category": "Buildings",
       "defname": "MovingRailGreenPuller",
       "price": 475
@@ -1927,13 +1927,13 @@
       "price": 33
     },
     {
-      "abr": "leguan",
+      "abr": "iguana",
       "category": "Animal",
       "defname": "Iguana",
       "price": 167
     },
     {
-      "abr": "leguanei(befr.)",
+      "abr": "iguanaegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggIguanaFertilized",
       "price": 42
@@ -2041,7 +2041,7 @@
       "price": 300
     },
     {
-      "abr": "luchs",
+      "abr": "lynx",
       "category": "Animal",
       "defname": "Lynx",
       "price": 417
@@ -2083,7 +2083,7 @@
       "price": 2000
     },
     {
-      "abr": "zieher",
+      "abr": "puller",
       "category": "Buildings",
       "defname": "MovingRailPuller",
       "price": 475
@@ -2095,7 +2095,7 @@
       "price": 3
     },
     {
-      "abr": "ziege",
+      "abr": "goat",
       "category": "Animal",
       "defname": "Goat",
       "price": 333
@@ -2110,7 +2110,7 @@
       "abr": "youthserum",
       "category": "Items",
       "defname": "MechSerumYouth",
-      "price": 2333
+      "price": 600
     },
     {
       "abr": "yorkshireterrier",
@@ -2143,7 +2143,7 @@
       "price": 533
     },
     {
-      "abr": "wüstenfuchs",
+      "abr": "fennecfox",
       "category": "Animal",
       "defname": "Fox_Fennec",
       "price": 333
@@ -2173,7 +2173,7 @@
       "price": 442
     },
     {
-      "abr": "wildschwein",
+      "abr": "wildboar",
       "category": "Animal",
       "defname": "WildBoar",
       "price": 333
@@ -2203,7 +2203,7 @@
       "price": 3
     },
     {
-      "abr": "wasserschwein",
+      "abr": "capybara",
       "category": "Animal",
       "defname": "Capybara",
       "price": 250
@@ -2227,7 +2227,7 @@
       "price": 3
     },
     {
-      "abr": "waschbär",
+      "abr": "raccoon",
       "category": "Animal",
       "defname": "Raccoon",
       "price": 167
@@ -2245,13 +2245,13 @@
       "price": 750
     },
     {
-      "abr": "wandlampe(rot)",
+      "abr": "walllight(red)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightRed",
       "price": -10
     },
     {
-      "abr": "wandlampe(grün)",
+      "abr": "walllight(green)",
       "category": "Furniture",
       "defname": "Lighting_MURWallLightGreen",
       "price": -10
@@ -2503,19 +2503,19 @@
       "price": 3
     },
     {
-      "abr": "truthahnei(befr.)",
+      "abr": "turkeyegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggTurkeyFertilized",
       "price": 18
     },
     {
-      "abr": "truthahn",
+      "abr": "turkey",
       "category": "Animal",
       "defname": "Turkey",
       "price": 167
     },
     {
-      "abr": "trockenfutter",
+      "abr": "kibble",
       "category": "Foods",
       "defname": "Kibble",
       "price": 2
@@ -2599,7 +2599,7 @@
       "price": 136
     },
     {
-      "abr": "tierbeeinflussenderpsychoimpulsgeber",
+      "abr": "psychicanimalpulser",
       "category": "Artifacts",
       "defname": "PsychicAnimalPulser",
       "price": 1167
@@ -2689,13 +2689,13 @@
       "price": -10
     },
     {
-      "abr": "synthetischelunge",
+      "abr": "syntheticlung",
       "category": "Bionic",
       "defname": "SyntheticLung",
       "price": 1183
     },
     {
-      "abr": "synthetischeleber",
+      "abr": "syntheticliver",
       "category": "Bionic",
       "defname": "SyntheticLiver",
       "price": 1183
@@ -2719,7 +2719,7 @@
       "price": 800
     },
     {
-      "abr": "stummgeschalteterkiefer",
+      "abr": "silentjaw",
       "category": "Bionic",
       "defname": "SilentJaw",
       "price": 583
@@ -2749,13 +2749,13 @@
       "price": 203
     },
     {
-      "abr": "straußenei(befr.)",
+      "abr": "ostrichegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggOstrichFertilized",
       "price": 38
     },
     {
-      "abr": "strauß",
+      "abr": "ostrich",
       "category": "Animal",
       "defname": "Ostrich",
       "price": 417
@@ -2779,7 +2779,7 @@
       "price": 3
     },
     {
-      "abr": "steinbock",
+      "abr": "ibex",
       "category": "Animal",
       "defname": "Ibex",
       "price": 417
@@ -2809,7 +2809,7 @@
       "price": -10
     },
     {
-      "abr": "staubmantel",
+      "abr": "duster",
       "category": "Apparel",
       "defname": "Apparel_Duster",
       "price": 327
@@ -2827,7 +2827,7 @@
       "price": 203
     },
     {
-      "abr": "stammeskleidung",
+      "abr": "tribalwear",
       "category": "Apparel",
       "defname": "Apparel_TribalA",
       "price": 211
@@ -2923,7 +2923,7 @@
       "price": 322
     },
     {
-      "abr": "sortierer",
+      "abr": "pusher",
       "category": "Buildings",
       "defname": "MovingRailPusher",
       "price": 293
@@ -3079,25 +3079,25 @@
       "price": 3
     },
     {
-      "abr": "schwein",
+      "abr": "pig",
       "category": "Animal",
       "defname": "Pig",
       "price": 333
     },
     {
-      "abr": "schutzweste",
+      "abr": "flakvest",
       "category": "Armor",
       "defname": "Apparel_FlakVest",
       "price": 375
     },
     {
-      "abr": "schutzjacke",
+      "abr": "flakjacket",
       "category": "Armor",
       "defname": "Apparel_FlakJacket",
       "price": 483
     },
     {
-      "abr": "schutzhose",
+      "abr": "flakpants",
       "category": "Armor",
       "defname": "Apparel_FlakPants",
       "price": 375
@@ -3115,7 +3115,7 @@
       "price": 425
     },
     {
-      "abr": "schokolade",
+      "abr": "chocolate",
       "category": "Foods",
       "defname": "Chocolate",
       "price": 5
@@ -3127,19 +3127,19 @@
       "price": 917
     },
     {
-      "abr": "schneehase",
+      "abr": "snowhare",
       "category": "Animal",
       "defname": "Snowhare",
       "price": 83
     },
     {
-      "abr": "schmerzstopper",
+      "abr": "painstopper",
       "category": "Bionic",
       "defname": "Painstopper",
       "price": 2133
     },
     {
-      "abr": "schmerzstillendesrippen-implantat",
+      "abr": "painkillerribreplacement",
       "category": "Bionic",
       "defname": "PainkillerRib",
       "price": 833
@@ -3169,13 +3169,13 @@
       "price": 3
     },
     {
-      "abr": "schildkrötenei(befr.)",
+      "abr": "tortoiseegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggTortoiseFertilized",
       "price": 38
     },
     {
-      "abr": "schildkröte",
+      "abr": "tortoise",
       "category": "Animal",
       "defname": "Tortoise",
       "price": 333
@@ -3235,7 +3235,7 @@
       "price": 3
     },
     {
-      "abr": "schaf",
+      "abr": "sheep",
       "category": "Animal",
       "defname": "Sheep",
       "price": 350
@@ -3283,19 +3283,19 @@
       "price": 18
     },
     {
-      "abr": "ruhigmachenderpsychoimpulsgeber",
+      "abr": "psychicsoothepulser",
       "category": "Artifacts",
       "defname": "PsychicSoothePulser",
       "price": 1000
     },
     {
-      "abr": "rotwild",
+      "abr": "deer",
       "category": "Animal",
       "defname": "Deer",
       "price": 417
     },
     {
-      "abr": "rotfuchs",
+      "abr": "redfox",
       "category": "Animal",
       "defname": "Fox_Red",
       "price": 333
@@ -3325,19 +3325,19 @@
       "price": 3
     },
     {
-      "abr": "rind",
+      "abr": "cow",
       "category": "Animal",
       "defname": "Cow",
       "price": 500
     },
     {
-      "abr": "riesenspinne",
+      "abr": "megaspider",
       "category": "Animal",
       "defname": "Megaspider",
       "price": 833
     },
     {
-      "abr": "riesenskarabäus",
+      "abr": "megascarab",
       "category": "Animal",
       "defname": "Megascarab",
       "price": 167
@@ -3349,7 +3349,7 @@
       "price": 2475
     },
     {
-      "abr": "riesenfaultier",
+      "abr": "megasloth",
       "category": "Animal",
       "defname": "Megasloth",
       "price": 1167
@@ -3379,7 +3379,7 @@
       "price": 3
     },
     {
-      "abr": "rentier",
+      "abr": "caribou",
       "category": "Animal",
       "defname": "Caribou",
       "price": 500
@@ -3427,7 +3427,7 @@
       "price": 110
     },
     {
-      "abr": "recon-rüstung",
+      "abr": "reconarmor",
       "category": "Armor",
       "defname": "Apparel_ArmorRecon",
       "price": 2567
@@ -3442,7 +3442,7 @@
       "abr": "reanimierer-mech-serum",
       "category": "Items",
       "defname": "MechSerumResurrector",
-      "price": 2833
+      "price": 600
     },
     {
       "abr": "rauchgranatenwerfer",
@@ -3457,7 +3457,7 @@
       "price": 92
     },
     {
-      "abr": "rauchblatt-joint",
+      "abr": "smokeleafjoint",
       "category": "Drugs",
       "defname": "SmokeleafJoint",
       "price": 18
@@ -3475,7 +3475,7 @@
       "price": 3
     },
     {
-      "abr": "ratte",
+      "abr": "rat",
       "category": "Animal",
       "defname": "Rat",
       "price": 58
@@ -3493,7 +3493,7 @@
       "price": 3
     },
     {
-      "abr": "puma",
+      "abr": "cougar",
       "category": "Animal",
       "defname": "Cougar",
       "price": 667
@@ -3505,7 +3505,7 @@
       "price": 3
     },
     {
-      "abr": "psychit-tee",
+      "abr": "psychitetea",
       "category": "Drugs",
       "defname": "PsychiteTea",
       "price": 17
@@ -3547,7 +3547,7 @@
       "price": 883
     },
     {
-      "abr": "power-kralle",
+      "abr": "powerclaw",
       "category": "Bionic",
       "defname": "PowerClaw",
       "price": 1158
@@ -3565,13 +3565,13 @@
       "price": 2958
     },
     {
-      "abr": "polarwolf",
+      "abr": "arcticwolf",
       "category": "Animal",
       "defname": "Wolf_Arctic",
       "price": 583
     },
     {
-      "abr": "polarfuchs",
+      "abr": "arcticfox",
       "category": "Animal",
       "defname": "Fox_Arctic",
       "price": 333
@@ -3589,7 +3589,7 @@
       "price": 833
     },
     {
-      "abr": "plattenrüstung",
+      "abr": "platearmor",
       "category": "Armor",
       "defname": "Apparel_PlateArmor",
       "price": 792
@@ -3625,7 +3625,7 @@
       "price": 3
     },
     {
-      "abr": "pferd",
+      "abr": "horse",
       "category": "Animal",
       "defname": "Horse",
       "price": 917
@@ -3643,13 +3643,13 @@
       "price": 6667
     },
     {
-      "abr": "penoxyzylin",
+      "abr": "penoxycyline",
       "category": "Drugs",
       "defname": "Penoxycyline",
       "price": 30
     },
     {
-      "abr": "pemmikan",
+      "abr": "pemmican",
       "category": "Foods",
       "defname": "Pemmican",
       "price": 2
@@ -3769,7 +3769,7 @@
       "price": 3
     },
     {
-      "abr": "nashorn",
+      "abr": "rhinoceros",
       "category": "Animal",
       "defname": "Rhinoceros",
       "price": 1167
@@ -3817,7 +3817,7 @@
       "price": 4167
     },
     {
-      "abr": "muntermacher",
+      "abr": "wake-up",
       "category": "Drugs",
       "defname": "WakeUp",
       "price": 58
@@ -3877,7 +3877,7 @@
       "price": 492
     },
     {
-      "abr": "milch",
+      "abr": "milk",
       "category": "Animal products",
       "defname": "Milk",
       "price": 5
@@ -3931,7 +3931,7 @@
       "price": 8
     },
     {
-      "abr": "meerschweinchen",
+      "abr": "guineapig",
       "category": "Animal",
       "defname": "GuineaPig",
       "price": 250
@@ -3943,7 +3943,7 @@
       "price": 8333
     },
     {
-      "abr": "medizinischesrippen-implantat",
+      "abr": "medicalribreplacement",
       "category": "Bionic",
       "defname": "MedicalRib",
       "price": 650
@@ -4021,7 +4021,7 @@
       "price": 2
     },
     {
-      "abr": "marine-rüstung",
+      "abr": "marinearmor",
       "category": "Armor",
       "defname": "Apparel_PowerArmor",
       "price": 3392
@@ -4051,7 +4051,7 @@
       "price": 1667
     },
     {
-      "abr": "luziferium",
+      "abr": "luciferium",
       "category": "Drugs",
       "defname": "Luciferium",
       "price": 117
