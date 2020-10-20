@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 2800,
+		"price": 1800,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 5600,
+		"price": 4600,
 		"karmatype": "Bad"
 	},
 	{
@@ -22,7 +22,7 @@
 	},
 	{
 		"abr": "vomitrain",
-		"price": 6500,
+		"price": 2650,
 		"karmatype": "Neutral"
 	},
 	{
@@ -87,7 +87,7 @@
 	},
 	{
 		"abr": "volcanicwinter",
-		"price": 3200,
+		"price": 4200,
 		"karmatype": "Doom"
 	},
 	{
@@ -132,7 +132,7 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 1500,
+		"price": 150,
 		"karmatype": "Neutral"
 	},
 	{
@@ -232,7 +232,7 @@
 	},
 	{
 		"abr": "dropraid",
-		"price": 1500,
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
@@ -257,7 +257,7 @@
 	},
 	{
 		"abr": "manhunterpack",
-		"price": 1500,
+		"price": 1800,
 		"karmatype": "Bad"
 	},
 	{
@@ -337,7 +337,7 @@
 	},
 	{
 		"abr": "reviveme",
-		"price": 2833,
+		"price": 800,
 		"karmatype": "Good"
 	},
 	{
@@ -357,7 +357,7 @@
 	},
 	{
 		"abr": "surgery",
-		"price": 500,
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
