@@ -277,12 +277,12 @@
 	},
 	{
 		"abr": "trait",
-		"price": 1,
+		"price": 800,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removetrait",
-		"price": 1,
+		"price": 400,
 		"karmatype": "Good"
 	},
 	{
