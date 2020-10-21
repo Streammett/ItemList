@@ -22,7 +22,7 @@
 	},
 	{
 		"abr": "vomitrain",
-		"price": 2650,
+		"price": 4650,
 		"karmatype": "Neutral"
 	},
 	{
@@ -132,13 +132,8 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 600,
+		"price": 1600,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "maninblack",
-		"price": 350,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "madanimal",
@@ -168,11 +163,6 @@
 	{
 		"abr": "farmanimals",
 		"price": 400,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "wildman",
-		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -281,13 +271,8 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "pawn",
-		"price": 1,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "levelskill",
-		"price": 1500,
+		"price": 1200,
 		"karmatype": "Good"
 	},
 	{
@@ -372,7 +357,7 @@
 	},
 	{
 		"abr": "rescueme",
-		"price": 800,
+		"price": 200,
 		"karmatype": "Neutral"
 	},
 	{
@@ -382,19 +367,14 @@
 	},
 	{
 		"abr": "passion",
-		"price": 3000,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removepassion",
 		"price": 5000,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "backpack",
-		"price": 1,
-		"karmatype": "Neutral"
 	}
 	],
-	"total": 79
+	"total": 75
 }
